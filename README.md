@@ -451,7 +451,7 @@ Starbucks-Promotion-Uplift-Optimization/
 
 **Sujal Bhavsar**
 
-M.Sc. Data Science & Spatial Analytics
+
 
 ------------------------------------------------------------------------
 
