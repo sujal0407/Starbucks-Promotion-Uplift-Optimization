@@ -1,0 +1,8 @@
+model,strategy,customers,spend $,predicted incremental $,predicted NIR $,observed NIR $,observed 95% CI,IPW NIR $,IPW 95% CI,NIR on uncapped spend $,realised discount cost $,kind
+T-Learner,rank by uplift (prefix),470.0,1996.0,5098.5,3102.5,4626.5,"[2528, 6973]",3221.7,"[1132, 5565]",5202.5,1523.0,strategy comparison
+T-Learner,rank by NIR per $,977.0,2000.0,7715.9,5715.9,6373.5,"[4046, 8482]",5106.2,"[2643, 7472]",11301.2,1717.0,strategy comparison
+T-Learner,EXACT optimum,977.0,2000.0,7715.9,5715.9,6373.5,"[3815, 8749]",5106.2,"[2501, 7684]",11301.2,1717.0,strategy comparison
+S-Learner,rank by uplift (prefix),429.0,1974.0,4296.7,2322.7,3479.4,"[1394, 5374]",1988.8,"[-144, 4200]",3839.4,1444.0,strategy comparison
+S-Learner,rank by NIR per $,971.0,1999.0,6880.5,4881.5,7046.9,"[4647, 9344]",6144.5,"[3636, 8716]",10179.7,1699.0,strategy comparison
+S-Learner,EXACT optimum,971.0,2000.0,6883.2,4883.2,7173.5,"[4804, 9456]",6240.3,"[3906, 8807]",10297.0,1700.0,strategy comparison
+,RANDOM targeting (same budget),380.67,2000.0,,,-633.2306460138268,"[-1701, 403]",-929.7452127277168,"[-2097, 181]",,,random baseline

@@ -1,0 +1,9 @@
+learner,config,fold 1,fold 2,mean
+S-Learner,deep_slow,0.571,0.735,0.653
+S-Learner,longer,0.69,0.593,0.641
+S-Learner,medium,0.68,0.609,0.645
+S-Learner,shallow,0.583,0.609,0.596
+T-Learner,deep_slow,0.633,0.833,0.733
+T-Learner,longer,0.579,0.871,0.725
+T-Learner,medium,0.594,0.882,0.738
+T-Learner,shallow,0.664,0.86,0.762
