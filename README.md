@@ -1,4 +1,4 @@
-# Starbucks Promotion Optimization --- Uplift & Time-Series Modeling
+# Starbucks Promotion Optimization : Uplift & Time-Series Modeling
 
 ## Overview
 
@@ -34,7 +34,7 @@ they are sent to customers who would have purchased anyway.
 
 The objective is therefore to identify **Persuadable customers** ---
 customers whose purchasing behavior is positively changed by promotional
-exposure --- and allocate a fixed **\$2,000 promotional budget** toward
+exposure and allocate a fixed **\$2,000 promotional budget** toward
 the customers with the highest expected incremental value.
 
 ------------------------------------------------------------------------
